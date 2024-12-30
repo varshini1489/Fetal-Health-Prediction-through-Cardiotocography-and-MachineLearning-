@@ -1,0 +1,2 @@
+# Fetal-Health-Prediction-through-Cardiotocography-and-MachineLearning-
+Predicting fetal health is an important part of prenatal care to identify potential risks promptly and provide appropriate medical interventions. This study introduces a machine learning approach for predicting fetal health by analyzing features derived from the Cardiotocography data. Various ML models were used to analyze the available CTG data. 
